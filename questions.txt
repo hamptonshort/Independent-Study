@@ -1,0 +1,19 @@
+0.  JPG: 16.7million colors GIF:256 colors JPEG: is JPG  BMP: each pixel can have its own color PNG: 8 or 24 bit color
+1.  GIF supports animation
+2.  JPG
+3.  The file is removed from the master 'data reference table' which is used to find it. It is still there until written over by something else
+4.  There is software that will write over it with really small amounts of data and also destroying the drive is the best way
+5.  ss
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
